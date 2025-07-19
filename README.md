@@ -13,9 +13,9 @@ A comprehensive bodyweight exercise program designed for home workouts requiring
 ## 🎯 Exercise Categories
 
 ### Standing Exercises
-- **Cardio/Full Body**: Jumping jacks, burpees, high knees, inchworm
+- **Cardio/Full Body**: Jumping jacks, burpees, inchworm
 - **Lower Body**: Squats, jump squats, sumo squats
-- **Core/Abs**: Standing crunches, heel touch, standing toe touch, stepper
+- **Core/Abs**: Standing crunches, heel touch, standing toe touch, stepper, side stepper
 
 ### Mat Exercises
 - **Upper Abs**: Crunches, bicycle crunches, Russian twists, heel touch crunches
@@ -69,7 +69,6 @@ After Day 10, restart with Session 1 on Day 11. This ensures optimal muscle reco
 ## 💡 Tips
 
 - Each session takes approximately 15-20 minutes
-- Exercises marked with "- x" are advanced variations
 - "Weight plate" in jumping jacks can be substituted with household items
 - The rotation ensures no muscle group is overworked on consecutive days
 - Feel free to swap exercises within the same muscle group category if needed

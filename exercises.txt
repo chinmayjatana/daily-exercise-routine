@@ -3,7 +3,6 @@ Standing Cardio/Full Body:
 - jumping jacks with weight plate
 - jumping jacks forward hand
 - burpees
-- high knees
 - inchworm
 
 Lower Body (Standing):
@@ -13,11 +12,12 @@ Lower Body (Standing):
 
 Core/Abs (Standing):
 - heel touch 
-- standing cross crunches - x
+- standing cross crunches
 - standing side crunches
 - standing crunches
 - standing toe touch
-- stepper - x
+- stepper
+- side stepper
 
 On Mat:
 Upper Abs:
@@ -28,21 +28,20 @@ Upper Abs:
 
 Lower Abs:
 - leg raise
-- reverse crunches - x
+- reverse crunches
 - V shape
 - leg raise one sided
 
 Full Core/Mixed:
-- one leg crunches - x
+- one leg crunches
 - mountain climber
 - plank twist
 - cross leg swing
-- cross leg toe touch - x
+- cross leg toe touch
 - wiper
 
 Upper Body/Arms:
 - pushups
-- push ups
 - high plank
 - high plank jacks
 
@@ -54,7 +53,7 @@ WORKOUT SESSIONS (2 Standing + 2 Mat exercises each):
 SESSION 1 - Cardio & Upper Abs:
 Standing:
 1. Jumping jacks (Cardio)
-2. High knees (Cardio)
+2. Burpees (Cardio)
 
 Mat:
 1. Full crunches (Upper abs)
@@ -63,16 +62,16 @@ Mat:
 SESSION 2 - Lower Body & Upper Body:
 Standing:
 1. Squat (Lower body)
-2. Jump squats (Lower body)
+2. Stepper (Core)
 
 Mat:
-1. Push ups (Upper body)
-2. Pushups (Upper body)
+1. Pushups (Upper body)
+2. High plank (Upper body)
 
 SESSION 3 - Core Standing & Full Core:
 Standing:
 1. Standing crunches (Core)
-2. Heel touch (Core)
+2. Side stepper (Core)
 
 Mat:
 1. Mountain climber (Full core)
@@ -80,7 +79,7 @@ Mat:
 
 SESSION 4 - Cardio & Lower Abs:
 Standing:
-1. Burpees (Full body cardio)
+1. Jumping jacks with weight plate (Cardio)
 2. Inchworm (Full body)
 
 Mat:
@@ -89,11 +88,11 @@ Mat:
 
 SESSION 5 - Lower Body & Upper Body:
 Standing:
-1. Sumo squat (Lower body)
-2. Stepper (Core)
+1. Jump squats (Lower body)
+2. Heel touch (Core)
 
 Mat:
-1. High plank (Upper body)
+1. Pushups (Upper body)
 2. High plank jacks (Upper body)
 
 SESSION 6 - Core Standing & Upper Abs:
@@ -107,7 +106,7 @@ Mat:
 
 SESSION 7 - Cardio & Full Core:
 Standing:
-1. Jumping jacks with weight plate (Cardio)
+1. Burpees (Full body cardio)
 2. Jumping jacks forward hand (Cardio)
 
 Mat:
@@ -116,8 +115,8 @@ Mat:
 
 SESSION 8 - Lower Body & Lower Abs:
 Standing:
-1. Jump squats (Lower body)
-2. Squat (Lower body)
+1. Sumo squat (Lower body)
+2. Standing cross crunches (Core)
 
 Mat:
 1. Reverse crunches (Lower abs)
@@ -134,8 +133,8 @@ Mat:
 
 SESSION 10 - Cardio & Upper Abs:
 Standing:
-1. Burpees (Full body cardio)
-2. High knees (Cardio)
+1. Inchworm (Full body cardio)
+2. Jumping jacks (Cardio)
 
 Mat:
 1. One leg crunches (Upper abs)
@@ -145,7 +144,6 @@ NOTES:
 - All exercises require only a mat (no additional equipment needed)
 - Sessions are designed to avoid muscle overlap between consecutive days
 - Each session has 2 standing exercises + 2 mat exercises (4 total)
-- Exercises marked with "- x" are advanced variations
 - "Weight plate" in jumping jacks can be substituted with any household item (book, water bottle, etc.)
 - Feel free to swap exercises within the same muscle group category if needed
 - 10 sessions provide variety and ensure all exercises are utilized
