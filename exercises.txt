@@ -1,7 +1,5 @@
 Standing Cardio/Full Body:
-- Jumping jacks
 - jumping jacks with weight plate
-- jumping jacks forward hand
 - burpees
 - inchworm
 
@@ -9,6 +7,7 @@ Lower Body (Standing):
 - jump squats
 - squat
 - sumo squat
+- lunges
 
 Core/Abs (Standing):
 - heel touch 
@@ -52,7 +51,7 @@ WORKOUT SESSIONS (2 Standing + 2 Mat exercises each):
 
 SESSION 1 - Cardio & Upper Abs:
 Standing:
-1. Jumping jacks (Cardio)
+1. Jumping jacks with weight plate (Cardio)
 2. Burpees (Cardio)
 
 Mat:
@@ -62,7 +61,7 @@ Mat:
 SESSION 2 - Lower Body & Upper Body:
 Standing:
 1. Squat (Lower body)
-2. Stepper (Core)
+2. Standing crunches (Core)
 
 Mat:
 1. Pushups (Upper body)
@@ -70,7 +69,7 @@ Mat:
 
 SESSION 3 - Core Standing & Full Core:
 Standing:
-1. Standing crunches (Core)
+1. Stepper (Core)
 2. Side stepper (Core)
 
 Mat:
@@ -79,7 +78,7 @@ Mat:
 
 SESSION 4 - Cardio & Lower Abs:
 Standing:
-1. Jumping jacks with weight plate (Cardio)
+1. Burpees (Full body cardio)
 2. Inchworm (Full body)
 
 Mat:
@@ -106,8 +105,8 @@ Mat:
 
 SESSION 7 - Cardio & Full Core:
 Standing:
-1. Burpees (Full body cardio)
-2. Jumping jacks forward hand (Cardio)
+1. Inchworm (Full body cardio)
+2. Stepper (Core)
 
 Mat:
 1. Cross leg swing (Full core)
@@ -134,7 +133,7 @@ Mat:
 SESSION 10 - Cardio & Upper Abs:
 Standing:
 1. Inchworm (Full body cardio)
-2. Jumping jacks (Cardio)
+2. Heel touch (Core)
 
 Mat:
 1. One leg crunches (Upper abs)
