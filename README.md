@@ -1,10 +1,10 @@
 # 🏋️‍♀️ Complete Home Workout Routine
 
-A comprehensive bodyweight exercise program designed for home workouts requiring only a mat. This routine targets all major muscle groups while ensuring proper rotation to avoid overworking the same muscles on consecutive days.
+A comprehensive bodyweight exercise program designed for home workouts requiring only a mat. This routine focuses on cardiovascular fitness and core strength while ensuring proper rotation to avoid overworking the same muscles on consecutive days.
 
 ## 📋 Features
 
-- **Equipment-Free**: All exercises require only a mat
+- **Cardio & Core Focus**: Emphasizes cardiovascular fitness and core strength
 - **Muscle Group Rotation**: Designed to avoid targeting same muscles consecutively
 - **10 Different Sessions**: Variety to prevent boredom and ensure balanced training
 - **Categorized Exercises**: Standing and mat exercises organized by muscle groups
@@ -13,15 +13,14 @@ A comprehensive bodyweight exercise program designed for home workouts requiring
 ## 🎯 Exercise Categories
 
 ### Standing Exercises
-- **Cardio/Full Body**: Jumping jacks, burpees, inchworm
-- **Lower Body**: Squats, jump squats, sumo squats
+- **Cardio/Full Body**: Jumping jacks with weight plate, burpees, inchworm
 - **Core/Abs**: Standing crunches, heel touch, standing toe touch, stepper, side stepper
 
 ### Mat Exercises
-- **Upper Abs**: Crunches, bicycle crunches, Russian twists, heel touch crunches
+- **Upper Abs**: Full crunches, bicycle crunches, Russian twists, heel touch crunches
 - **Lower Abs**: Leg raises, reverse crunches, V-shape, leg raise one sided
-- **Full Core**: Mountain climbers, plank twist, cross leg swing, wiper
-- **Upper Body**: Push-ups variations, high plank, high plank jacks
+- **Full Core**: One leg crunches, mountain climbers, plank twist, cross leg swing, cross leg toe touch, wiper
+- **Upper Body**: High plank, high plank jacks
 - **Core Stability**: Plank
 
 ## 📅 Session Structure
@@ -32,13 +31,13 @@ Each session includes:
 
 ### Available Sessions:
 1. **Session 1**: Cardio & Upper Abs
-2. **Session 2**: Lower Body & Upper Body
+2. **Session 2**: Core Standing & Upper Body
 3. **Session 3**: Core Standing & Full Core
 4. **Session 4**: Cardio & Lower Abs
-5. **Session 5**: Lower Body & Upper Body
+5. **Session 5**: Core Standing & Upper Body
 6. **Session 6**: Core Standing & Upper Abs
 7. **Session 7**: Cardio & Full Core
-8. **Session 8**: Lower Body & Lower Abs
+8. **Session 8**: Core Standing & Lower Abs
 9. **Session 9**: Core Standing & Core Stability
 10. **Session 10**: Cardio & Upper Abs
 
@@ -46,13 +45,13 @@ Each session includes:
 
 ### Complete Cycle (Days 1-10)
 - **Day 1**: Session 1 (Cardio & Upper Abs)
-- **Day 2**: Session 2 (Lower Body & Upper Body)
+- **Day 2**: Session 2 (Core Standing & Upper Body)
 - **Day 3**: Session 3 (Core Standing & Full Core)
 - **Day 4**: Session 4 (Cardio & Lower Abs)
-- **Day 5**: Session 5 (Lower Body & Upper Body)
+- **Day 5**: Session 5 (Core Standing & Upper Body)
 - **Day 6**: Session 6 (Core Standing & Upper Abs)
 - **Day 7**: Session 7 (Cardio & Full Core)
-- **Day 8**: Session 8 (Lower Body & Lower Abs)
+- **Day 8**: Session 8 (Core Standing & Lower Abs)
 - **Day 9**: Session 9 (Core Standing & Core Stability)
 - **Day 10**: Session 10 (Cardio & Upper Abs)
 
@@ -72,6 +71,8 @@ After Day 10, restart with Session 1 on Day 11. This ensures optimal muscle reco
 - "Weight plate" in jumping jacks can be substituted with household items
 - The rotation ensures no muscle group is overworked on consecutive days
 - Feel free to swap exercises within the same muscle group category if needed
+- Focus on core strength and cardiovascular endurance
+- All exercises use bodyweight only - no equipment needed except a mat
 
 ## 📄 Files
 
