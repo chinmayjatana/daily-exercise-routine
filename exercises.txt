@@ -2,6 +2,7 @@ Standing Cardio/Full Body:
 - jumping jacks with weight plate
 - burpees
 - inchworm
+- surya namaskar
 
 Lower Body (Standing):
 - jump squats
@@ -18,20 +19,20 @@ Core/Abs (Standing):
 - stepper
 - side stepper
 
-On Mat:
-Upper Abs:
+Core/Abs (Mat):
+Upper Abs (Mat):
 - full crunches
 - bycycle crunches
 - heel touch crunches
 - Russian twist
 
-Lower Abs:
+Lower Abs (Mat):
 - leg raise
 - reverse crunches
 - V shape
 - leg raise one sided
 
-Full Core/Mixed:
+Full Core/Mixed (Mat):
 - one leg crunches
 - mountain climber
 - plank twist
@@ -39,131 +40,10 @@ Full Core/Mixed:
 - cross leg toe touch
 - wiper
 
-Upper Body/Arms:
+Upper Body/Arms (Mat):
 - pushups
 - high plank
 - high plank jacks
 
-Core Stability:
+Core Stability (Mat):
 - plank
-
-WORKOUT SESSIONS (2 Standing + 2 Mat exercises each):
-
-SESSION 1 - Cardio & Upper Abs:
-Standing:
-1. Jumping jacks with weight plate (Cardio)
-2. Burpees (Cardio)
-
-Mat:
-1. Full crunches (Upper abs)
-2. Bycycle crunches (Upper abs)
-
-SESSION 2 - Core Standing & Upper Body:
-Standing:
-1. Standing side crunches (Core)
-2. Standing crunches (Core)
-
-Mat:
-1. High plank (Upper body)
-2. Cross leg toe touch (Full core)
-
-SESSION 3 - Core Standing & Full Core:
-Standing:
-1. Stepper (Core)
-2. Side stepper (Core)
-
-Mat:
-1. Plank (Core stability)
-2. Plank twist (Full core)
-
-SESSION 4 - Cardio & Lower Abs:
-Standing:
-1. Burpees (Full body cardio)
-2. Inchworm (Full body)
-
-Mat:
-1. Leg raise (Lower abs)
-2. V shape (Lower abs)
-
-SESSION 5 - Core Standing & Upper Body:
-Standing:
-1. Standing toe touch (Core)
-2. Side stepper (Core)
-
-Mat:
-1. High plank jacks (Upper body)
-2. Wiper (Full core)
-
-SESSION 6 - Core Standing & Upper Abs:
-Standing:
-1. Stepper (Core)
-2. Standing toe touch (Core)
-
-Mat:
-1. Heel touch crunches (Upper abs)
-2. Russian twist (Upper abs)
-
-SESSION 7 - Cardio & Full Core:
-Standing:
-1. Inchworm (Full body cardio)
-2. Side stepper (Core)
-
-Mat:
-1. Cross leg swing (Full core)
-2. Plank (Core stability)
-
-SESSION 8 - Core Standing & Lower Abs:
-Standing:
-1. Stepper (Core)
-2. Standing cross crunches (Core)
-
-Mat:
-1. Reverse crunches (Lower abs)
-2. Leg raise one sided (Lower abs)
-
-SESSION 9 - Core Standing & Core Stability:
-Standing:
-1. Heel touch (Core)
-2. Standing cross crunches (Core)
-
-Mat:
-1. Wiper (Full core)
-2. Mountain climber (Full core)
-
-SESSION 10 - Cardio & Upper Abs:
-Standing:
-1. Inchworm (Full body cardio)
-2. Heel touch (Core)
-
-Mat:
-1. One leg crunches (Upper abs)
-2. Plank twist (Full core)
-
-NOTES:
-- All exercises require only a mat (no additional equipment needed)
-- Sessions are designed to avoid muscle overlap between consecutive days
-- Each session has 2 standing exercises + 2 mat exercises (4 total)
-- "Weight plate" in jumping jacks can be substituted with any household item (book, water bottle, etc.)
-- Feel free to swap exercises within the same muscle group category if needed
-- 10 sessions provide variety and ensure all exercises are utilized
-
-ROTATION SCHEDULE (Muscle Recovery Pattern):
-Day 1: Session 1 (Cardio & Upper Abs)
-Day 2: Session 2 (Core Standing & Upper Body)
-Day 3: Session 3 (Core Standing & Full Core)
-Day 4: Session 4 (Cardio & Lower Abs)
-Day 5: Session 5 (Core Standing & Upper Body)
-Day 6: Session 6 (Core Standing & Upper Abs)
-Day 7: Session 7 (Cardio & Full Core)
-Day 8: Session 8 (Core Standing & Lower Abs)
-Day 9: Session 9 (Core Standing & Core Stability)
-Day 10: Session 10 (Cardio & Upper Abs)
-Day 11: Session 1 (Cycle repeats)
-
-MUSCLE GROUP ROTATION LOGIC:
-- Cardio sessions alternate with core/strength sessions
-- Upper abs and lower abs are separated by at least 2 days
-- Core standing exercises rotate with different mat exercises
-- Full body movements (burpees, inchworm) are spaced out
-- Upper body exercises are distributed across sessions
-- Core stability exercises provide variety in muscle engagement
